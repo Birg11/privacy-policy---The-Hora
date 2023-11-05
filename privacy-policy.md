@@ -1,16 +1,16 @@
-Certainly, here's the privacy policy for "The Hora App" with the provided contact email address:
+Certainly, here's the privacy policy for "The Hour App" with the provided contact email address:
 
 ---
 
-# Privacy Policy For The Hora App
+# Privacy Policy For The Hour App
 
-The Hora App ("we," "our," or "us") is committed to protecting and respecting your privacy. This policy outlines how we collect, use, and safeguard your personal information when you use our mobile application (the "App").
+The Hour App ("we," "our," or "us") is committed to protecting and respecting your privacy. This policy outlines how we collect, use, and safeguard your personal information when you use our mobile application (the "App").
 
 By downloading, accessing, or using the App, you agree to the terms of this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the App.
 
 ## What data do we collect from you?
 
-The Hora App does not collect personal information directly from users. However, please note that any information you publish onto a public blockchain, such as Polkadot, is inherently public by design.
+The Hour App does not collect personal information directly from users. However, please note that any information you publish onto a public blockchain, such as Polkadot, is inherently public by design.
 
 If you visit our website or use our services, we may collect and process the following personal data:
 
